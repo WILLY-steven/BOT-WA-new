@@ -1,5 +1,5 @@
 {
-  "name": "tmuxwabot",
+  "name": "Willy_bot.v1",
   "version": "1.0.0",
   "description": "whatsappbot termux",
   "main": "index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdciabdul/termux-whatsapp-bot.git"
+    "url": "git+https://github.com/WILLY-steven/BOT-WA-new.git"
   },
   "keywords": [
     "k"
@@ -36,7 +36,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fdciabdul/termux-whatsapp-bot/issues"
+    "url": "https://github.com/WILLY-steven/BOT-WA-new/issues"
   },
-  "homepage": "https://github.com/fdciabdul/termux-whatsapp-bot#readme"
+  "homepage": "https://github.com/WILLY-steven/BOT-WA-new#readme"
 }
