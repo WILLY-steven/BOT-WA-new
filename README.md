@@ -5,8 +5,8 @@ A Lightweight WhatApp Bot Without Headless Browser
 <img src="https://www.pngkey.com/png/full/824-8245235_if-you-just-want-crazy-anime.png" width="300" >
 
 
-![Twitter](https://img.shields.io/twitter/follow/fdciabdul?style=flat-square)
-![Fork](https://img.shields.io/github/forks/fdciabdul/termux-whatsapp-bot?style=flat-square)
+
+
 
  
 
@@ -15,16 +15,16 @@ A Lightweight WhatApp Bot Without Headless Browser
 
 # Termux
 ```bash
-> git clone https://github.com/fdciabdul/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/WILLY-steven/BOT-WA-new
+> cd BOT-WA-new
 > bash install.sh
 
 ```
 
 # Linux ( debian & ubuntu )
 ```bash
-> git clone https://github.com/fdciabdul/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/WILLY-steven/BOT-WA-new
+> cd BOT-WA-new
 > bash install.sh
 
 ```
